@@ -1,11 +1,8 @@
 ---
 published: true
----
----
 layout: post
 title: First Post
 ---
-
 ## Creating A New Post
 
 1. Create a new markdown file in the `_posts` folder. Give it a name `YYYY-MM-DD-title-of-post.md` (this naming format is required by the templating engine).
