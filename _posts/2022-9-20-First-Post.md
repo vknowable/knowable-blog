@@ -4,6 +4,7 @@ layout: post
 title: First Post
 ---
 #### Creating A New Post
+Here are the steps to follow when creating a new post:
 
 1. Create a new markdown file in the `_posts` folder. Give it a name `YYYY-MM-DD-title-of-post.md` (this naming format is required by the templating engine).
 2. Add the post content.
