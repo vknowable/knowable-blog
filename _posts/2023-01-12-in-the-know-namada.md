@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the Know: Namada
+title: 'In the Know: Namada'
 ---
 
 \
