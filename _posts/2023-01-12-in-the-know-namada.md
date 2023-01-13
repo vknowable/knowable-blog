@@ -1,5 +1,3 @@
-# In the Know: Namada
-
  \
 _Privacy loves company, so Namada will reward you with NAM tokens for shielding any Ethereum/Cosmos tokens. Namada’s public testnet is running and we’re preparing for a Q1 launch. [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we’ll alert you about opportunities and what’s coming next._ 
 
