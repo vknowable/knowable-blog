@@ -19,7 +19,7 @@ Cosmos OGs include cofounder Christopher Goes, IBC design & development lead
 
 **Web3 can be weird and uncertain. We’ve launched the Namada Knowledge Hub to make Namada knowable.**
 
-<p><img src="https://knowable.vc/assets/commitment.jpg"<br></p>
+<p><img src="https://knowable.vc/assets/commitment.jpg"><br></p>
 
 ## What’s Namada?
 
