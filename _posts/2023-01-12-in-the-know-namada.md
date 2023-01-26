@@ -10,14 +10,14 @@ Scammers, hackers, competitors, burglars–your assets are public knowledge, but
 
 
 
-* Skip: [Namada team](#heliax-is-launching-namada) \
-Cosmos OGs include cofounder Christopher Goes, IBC design & development lead
-* Skip: getting NAM
-* Skip: staking NAM (cubic slashing)
-* Skip: Namada governance (liquid democracy, off-chain gov, public goods funding)
-* Skip: roadmap (bridge innovation)
+* Skip to: [Namada team](#heliax-is-launching-namada) \
+Cosmos OGs that include cofounder Christopher Goes, IBC design & development lead
+* Skip to: [getting NAM](#namadas-staking-token-nam)
+* Skip to: [staking NAM](#staking-nam) (cubic slashing)
+* Skip to: [Namada governance](#governance) ("liquid democracy," off-chain gov, public goods funding)
+* Skip to: [roadmap](#at-launch-vs-future) (bridge innovations)
 
-**Web3 can be weird and uncertain. We’ve launched the Namada Knowledge Hub to make Namada knowable.**
+**Web3 can be weird and uncertain. We’ve launched the [Namada Knowledge Hub](https://knowable.vc/namada) to make Namada knowable.**
 
 <p><img src="https://knowable.vc/assets/commitment.jpg"><br></p>
 
@@ -45,9 +45,9 @@ It’ll be easy and permissionless to transfer Ethereum and Cosmos assets to Nam
 
 You may have heard of Anoma, so let’s clarify. While Namada will initially look a lot like a Cosmos chain at launch, it will evolve as the first “fractal instance” of Anoma. The Anoma chain (Q4 2023) will offer an interchain coordination layer with full-stack privacy. Users express what they want instead of how to get it (and the system operators are responsible for figuring out how to get it). Anoma removes the need for centralized counterparty discovery points, like AMMs (Uniswap) and orderbooks.
 
+<img src="https://pbs.twimg.com/profile_images/1352573429011144704/fpKGDQNW_400x400.jpg>
+
 If you’re curious about Anoma, [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we can alert you about what’s coming next for Anoma. In the meantime check these out:
-
-
 
 * [Anoma explainer video](https://www.youtube.com/watch?v=cF4j_poCWqw) (19 mins; Sep 2022)
 * [An Overview of Anoma's Architecture article](https://anoma.net/blog/an-overview-of-anomas-architecture) (Mar 2022)
@@ -114,7 +114,7 @@ The primary risk for stakers is from a validator that equivocates (signs one blo
 If a validator goes offline (stops signing blocks), their delegators won’t earn. If you have delegated $100k in tokens earning 16%, you’ll miss earnings of ~$1.73 per hour that your validator is offline, but there will be no slashing for downtime.
 
 
-### Governance
+## Governance
 
 Namada’s governance mechanism will also resemble Cosmos governance, but with some noteworthy updates. When you delegate, by default your validator represents your stake when voting in governance. But you can change that–**you can select a different representative for governance voting,** and of course you can always override their vote with your own vote.
 
@@ -127,7 +127,7 @@ Finally, Namada will experiment with public goods funding. A council will be ele
 We intend to participate in Namada’s governance experiments, [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) about Namada’s governance.
 
 
-### At Launch vs Future
+## At Launch vs Future
 
 You’ll be able to move Ethereum and Cosmos assets at launch. Cosmos assets will use IBC, and Ethereum assets will use a fully custom bridge that prioritizes security optimization. If bridges (understandably) make you wince, you’ll want to understand Heliax’s [Ethereum bridge design](https://specs.namada.net/interoperability/ethereum-bridge.html)–custom-built to optimize for security (recall that Christopher led IBC) and to minimize latency. We anticipate custom bridge designs for Bitcoin and Polkadot chains later.
 
@@ -137,4 +137,4 @@ Namada is positioned to provide privacy as a public good. But public goods are n
 
 You lose privacy whenever you transact between chains, so **third phase: private bridges,** which will enable all privacy-preserving chains to share a privacy set. We should have governance and PoS improvements to look forward to, as well as moarr bridges.
 
-Perhaps the coolest thing about Namada is that Namada will introduce novel innovation, one by one, from Anoma, which we anticipate will be the first legit third generation blockchain ecosystem.
+Perhaps the coolest thing about Namada is that Namada will introduce novel innovations from Anoma, which we anticipate will be the first legit third generation blockchain ecosystem.
