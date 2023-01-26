@@ -10,8 +10,8 @@ Scammers, hackers, competitors, burglars–your assets are public knowledge, but
 
 
 
-* Skip: Namada team \
-Cosmos OGs include cofounder Christopher Goes, led IBC design & development
+* Skip: [Namada team](#heliax-is-launching-namada) \
+Cosmos OGs include cofounder Christopher Goes, IBC design & development lead
 * Skip: getting NAM
 * Skip: staking NAM (cubic slashing)
 * Skip: Namada governance (liquid democracy, off-chain gov, public goods funding)
@@ -19,14 +19,7 @@ Cosmos OGs include cofounder Christopher Goes, led IBC design & development
 
 **Web3 can be weird and uncertain. We’ve launched the Namada Knowledge Hub to make Namada knowable.**
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+<p><img src="https://knowable.vc/assets/commitment.jpg"<br></p>
 
 ## What’s Namada?
 
@@ -87,8 +80,6 @@ New **NAM will be issued to pay participants:** stakers that secure Namada’s o
 
 ### Getting NAM
 
-
-
 * Earn NAM for shielding your Ethereum/Cosmos assets
 * Get awarded NAM for digital privacy and public goods efforts
 * Trading for NAM
@@ -118,13 +109,7 @@ The Namada supply will increase to pay stakers, a dynamic floating rate; the max
 
 The primary risk for stakers is from a validator that equivocates (signs one block twice) or a validator that produces / votes for an invalid block. Namada uses an escalated slashing mechanism called [“cubic slashing,”](https://specs.namada.net/economics/proof-of-stake/bonding-mechanism.html#slashing) which exponentially increases the penalty based on how much stake a validator has. Large validator operators often offer a “white label validator” service, which means that one entity could be running several seemingly independent validators. At the extreme end, delegators to an offending entity running validators that have 34% of stake combined–they will lose 100% of their stake.
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+<p><img src="https://raw.githubusercontent.com/vknowable/knowable-blog/master/images/cubic_slash.png" width="600" height="300"></p>
 
 If a validator goes offline (stops signing blocks), their delegators won’t earn. If you have delegated $100k in tokens earning 16%, you’ll miss earnings of ~$1.73 per hour that your validator is offline, but there will be no slashing for downtime.
 
