@@ -18,8 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background: $black;
   font: 18px/1.4 $helvetica;
+
+  line-height: 1.5;
   color: $darkGray;
 }
 
@@ -28,16 +30,18 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background: $black;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: 'Raleway', $helveticaNeue;
+  color: $lightGray;
   font-weight: bold;
+  border-bottom: 3px solid #333;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+  margin: 1em 0 20px;
+  padding-left: 10px;
 
   @include mobile {
     line-height: 1.4;
@@ -62,6 +66,8 @@ h3 {
 h4 {
   font-size: 18px;
   color: $gray;
+  border-bottom: none;
+  margin: 1em 0 15px;
 }
 
 p {
@@ -117,7 +123,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #666;
 }
 
 // Specify the color of the selection
@@ -155,8 +161,8 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding: 20px 20px;
+  /*border-bottom: 2px solid $light-blue;*/
 
   @include mobile {
     text-align: center;
@@ -165,9 +171,10 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
   margin-right: 15px;
+  border-radius: 10px 30px 10px 30px;
 
   @include mobile {
     float: none;
@@ -176,7 +183,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 10px 20px 10px 20px;
   }
 }
 
@@ -192,18 +199,24 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $lightGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Krona One', $helveticaNeue;
+  font-variant: small-caps;
+  letter-spacing: 1.2px;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 36px;
   letter-spacing: 1px;
+  border-bottom: none;
+  padding-left: 0;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkGray;
   font-size: 16px;
+  letter-spacing: 1px;
+  font-family: 'Questrial', $helvetica;
 
   @include mobile {
     margin: 3px 0;
@@ -213,8 +226,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: 'Questrial', $helveticaNeue;
+  font-size: 17px;
 
   @include mobile {
     float: none;
@@ -225,7 +238,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #CACACA;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -273,14 +286,18 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  background-color: $black;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  background: $black;
+}
+footer a {
+  margin: 0 10px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
