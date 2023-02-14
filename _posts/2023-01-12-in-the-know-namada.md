@@ -8,7 +8,7 @@ title: 'In the Know: Namada'
 
 Scammers, hackers, competitors, burglars–your assets are public knowledge, but Namada’s about to make it easy (and rewarding) to shield any assets: in Cosmos, Ethereum, and more to come. The more you use Namada, the stronger the privacy guarantees for everyone. Namada will be an important step toward data security in Web3--read on or skip ahead!
 
-<p>
+
 * Skip to [Namada team](#heliax-is-launching-namada) (cofounder Christopher Goes, IBC design & development lead)
 * Skip to [getting NAM](#namadas-staking-token-nam) (earn NAM from privacy contributions)
 * Skip to [staking NAM](#staking-nam) (escalating game of cubic slashing)
