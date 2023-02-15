@@ -7,8 +7,8 @@ title: 'In the Know: Namada'
 <img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>By [Gavin Birch](https://twitter.com/Ether_Gavin), updated Feb 14, 2022 <br><br> _Privacy loves company, so Namada will reward you with NAM tokens for shielding any Ethereum/Cosmos tokens. Namada’s public testnet is running and we’re preparing for a Q1 launch. [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we’ll alert you about opportunities and what’s coming next._ 
 
 Scammers, hackers, competitors, burglars–your assets are public knowledge, but Namada’s about to make it easy (and rewarding) to shield any assets: in Cosmos, Ethereum assets, and more to come. The more you use Namada, the stronger the privacy guarantees for everyone. Namada will be an important step toward data security in Web3--read on or skip ahead!
+.
 
-\
 * Skip to [Namada team](#heliax-is-launching-namada) (cofounder Christopher Goes, IBC design & development lead)
 * Skip to [getting NAM](#namadas-staking-token-nam) (earn NAM from privacy contributions)
 * Skip to [staking NAM](#staking-nam) (escalating game of cubic slashing)
@@ -19,6 +19,7 @@ Scammers, hackers, competitors, burglars–your assets are public knowledge, but
 **Web3 can be weird and uncertain. We’re developing our [Namada Knowledge Hub](https://knowable.vc/namada) to make Namada knowable.**
 
 <p><img src="https://knowable.vc/assets/commitment.jpg"><br></p>
+.
 
 ## What’s Namada?
 
@@ -30,10 +31,10 @@ How could Web3 be adopted by an organization–a business, advocacy group, gover
 \
 **Namada will be a PoS blockchain that offers interchain asset privacy,** and Namada’s user-friendly interfaces will make privacy-preserving transfers more accessible. Simple, understandable privacy for any asset. Fast and cheap, with strong security guarantees.
 
-\n
+\
 At launch (Q1 2023), Namada will enable you to **shield any Ethereum or Cosmos assets**, including NFTs like ENS names. You’ll earn NAM (Namada’s native token) for any assets held by Namada, because more shielded assets strengthen the privacy guarantees for all participants. [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for updates and learn how to earn from shielding assets.
 
-\n
+\
 It’ll be easy and permissionless to transfer Ethereum and Cosmos assets to Namada, which will use a single, common shielded pool for all assets (fungible and non-fungible). “Transferring a CryptoKitty is indistinguishable from transferring ETH, DAI, ATOM, OSMO, NAM or any other asset on Namada,” cofounder Awa Sun Yin wrote in the [Oct 2022 article ‘What is Namada?’](https://blog.namada.net/what-is-namada/) (a great first step toward a technical deep dive). [If you have time, check out some talks.](https://namada.net/talks.html) More helpful links below:
 
 \
