@@ -8,14 +8,14 @@ title: 'In the Know: Namada'
 
 Scammers, hackers, competitors, burglars–your assets are public knowledge, but Namada’s about to make it easy (and rewarding) to shield any assets: in Cosmos, Ethereum assets, and more to come. The more you use Namada, the stronger the privacy guarantees for everyone. Namada will be an important step toward data security in Web3--read on or skip ahead!
 
-\n
+\
 * Skip to [Namada team](#heliax-is-launching-namada) (cofounder Christopher Goes, IBC design & development lead)
 * Skip to [getting NAM](#namadas-staking-token-nam) (earn NAM from privacy contributions)
 * Skip to [staking NAM](#staking-nam) (escalating game of cubic slashing)
 * Skip to [Namada governance](#governance) ("liquid democracy," off-chain gov, public goods funding)
 * Skip to [roadmap](#at-launch-vs-future) (bridge innovations)
 
-\n
+\
 **Web3 can be weird and uncertain. We’re developing our [Namada Knowledge Hub](https://knowable.vc/namada) to make Namada knowable.**
 
 <p><img src="https://knowable.vc/assets/commitment.jpg"><br></p>
@@ -24,10 +24,10 @@ Scammers, hackers, competitors, burglars–your assets are public knowledge, but
 
 **Interchain asset privacy.** Why? Web3 promises secure digital ownership and control, but not over your information. Everything we do in crypto is exposed to everyone–imagine if everyone in the world could see your entire history of credit card purchases and bank statements. Even if your address isn’t publicly known, it’s only a matter of time before all of your assets and transactions are exposed. Even something as simple as sending someone tokens reveals to them your entire transaction history.
 
-\n
+\
 How could Web3 be adopted by an organization–a business, advocacy group, government (or anyone with anything to lose to an adversary–if all of our transactions)? Assuming that all of our assets, and our patterns of transactional behaviours continue to be known by all.
 
-\n
+\
 **Namada will be a PoS blockchain that offers interchain asset privacy,** and Namada’s user-friendly interfaces will make privacy-preserving transfers more accessible. Simple, understandable privacy for any asset. Fast and cheap, with strong security guarantees.
 
 \n
@@ -36,14 +36,14 @@ At launch (Q1 2023), Namada will enable you to **shield any Ethereum or Cosmos a
 \n
 It’ll be easy and permissionless to transfer Ethereum and Cosmos assets to Namada, which will use a single, common shielded pool for all assets (fungible and non-fungible). “Transferring a CryptoKitty is indistinguishable from transferring ETH, DAI, ATOM, OSMO, NAM or any other asset on Namada,” cofounder Awa Sun Yin wrote in the [Oct 2022 article ‘What is Namada?’](https://blog.namada.net/what-is-namada/) (a great first step toward a technical deep dive). [If you have time, check out some talks.](https://namada.net/talks.html) More helpful links below:
 
-\n
+\
 * [Introducing Namada: Interchain Asset-agnostic Privacy](https://blog.namada.net/introducing-namada-interchain-asset-agnostic-privacy/) (Awa’s May 2022 article)
 * [Namada Specifications](https://specs.namada.net/) lays out all Namada details (maintained by core team)
 * [Namada Documentation](https://docs.namada.net/) is a guide to using Namada (maintained by core team)
 * Maintained by core team: [website](https://namada.net/); [Twitter](https://twitter.com/namadanetwork); [GitHub](https://github.com/anoma/namada); [Reddit](https://www.reddit.com/r/Namada/)
 * Knowable's [Namada Knowledge Hub](https://knowable.vc/namada)
 
-\n
+\
 ### Anoma
 
 You may have heard of Anoma, so let’s clarify. While Namada will initially look a lot like a Cosmos chain at launch, Namada will evolve as the first “fractal instance” of Anoma. The Anoma chain (Q4 2023) will offer an interchain coordination layer with full-stack privacy. Users express what they want instead of how to get it (and the system operators are responsible for figuring out how to get it). Anoma removes the need for centralized counterparty discovery points, like AMMs (Uniswap) and orderbooks. Anoma's framework will enable many decentralized apps and chains to launch (similar to the way the Cosmos SDK enabled many chains to launch).
