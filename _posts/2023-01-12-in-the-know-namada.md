@@ -46,7 +46,7 @@ It’ll be easy and permissionless to transfer Ethereum and Cosmos assets to Nam
 
 You may have heard of Anoma, so let’s clarify. While Namada will initially look a lot like a Cosmos chain at launch, Namada will evolve as the first “fractal instance” of Anoma. The Anoma chain (Q4 2023) will offer an interchain coordination layer with full-stack privacy. Users express what they want instead of how to get it (and the system operators are responsible for figuring out how to get it). Anoma removes the need for centralized counterparty discovery points, like AMMs (Uniswap) and orderbooks. Anoma's framework will enable many decentralized apps and chains to launch (similar to the way the Cosmos SDK enabled many chains to launch).
 
-<img src="https://pbs.twimg.com/profile_images/1352573429011144704/fpKGDQNW_400x400.jpg">
+<img src="https://pbs.twimg.com/profile_images/1352573429011144704/fpKGDQNW_400x400.jpg" width="150" height="150">
 
 If you’re curious about Anoma, [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we can alert you about what’s coming next for Anoma. In the meantime check these out:
 
