@@ -24,7 +24,7 @@ Scammers, hackers, competitors, burglars–your assets are public knowledge, but
 **Interchain asset privacy.** Why? Web3 promises secure digital ownership and control, but not over your information. Everything we do in crypto is exposed to everyone–imagine if everyone in the world could see your entire history of credit card purchases and bank statements. Even if your address isn’t publicly known, it’s only a matter of time before all of your assets and transactions are exposed. Even something as simple as sending someone tokens reveals to them your entire transaction history.
 
 \
-How could Web3 be adopted by an organization–a business, advocacy group, government (or anyone with anything to lose to an adversary–if all of our transactions)? Assuming that all of our assets, and our patterns of transactional behaviours continue to be known by all.
+How could Web3 be adopted by an organization–a business, advocacy group, government (or anyone with anything to lose to an adversary), if all of our transactions are observable? Assuming that all of our assets, and our patterns of transactional behaviours continue to be known by all.
 
 \
 **Namada will be a PoS blockchain that offers interchain asset privacy,** and Namada’s user-friendly interfaces will make privacy-preserving transfers more accessible. Simple, understandable privacy for any asset. Fast and cheap, with strong security guarantees.
