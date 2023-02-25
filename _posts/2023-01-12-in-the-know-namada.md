@@ -4,7 +4,7 @@ title: 'In the Know: Namada'
 ---
 
 \
-<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>By [Gavin Birch](https://twitter.com/Ether_Gavin), updated Feb 14, 2022 <br><br> _Privacy loves company, so Namada will reward you with NAM tokens for shielding any Ethereum/Cosmos tokens. Namada’s public testnet is running and we’re preparing for a Q1 launch. [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we’ll alert you about opportunities and what’s coming next._ 
+<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>By [Gavin Birch](https://twitter.com/Ether_Gavin), updated Feb 14, 2023 <br><br> _Privacy loves company, so Namada will reward you with NAM tokens for shielding any Ethereum/Cosmos tokens. Namada’s public testnet is running and we’re preparing for a Q1 launch. [Stay In the Know](https://forms.gle/HRAQBSo85HGzKVSg9) and we’ll alert you about opportunities and what’s coming next._ 
 
 Scammers, hackers, competitors, burglars–your assets are public knowledge, but Namada’s about to make it easy (and rewarding) to shield any assets: in Cosmos, Ethereum assets, and more to come. The more you use Namada, the stronger the privacy guarantees for everyone. Namada will be an important step toward data security in Web3--read on or skip ahead!
 
