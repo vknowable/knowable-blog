@@ -1,4 +1,10 @@
-_Can Web3 reach adoption without privacy? Namada’s poised to launch in March 2023. Shielded assets will be rewarded with NAM–here’s why and what to pay attention to. We’ll be running a local bare metal validator (and you can too! [DM](https://twitter.com/vKnowable), [email](mailto:hi@knowable.vc)). [Stay in the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for alerts._
+---
+layout: post
+title: 'Bootstrapping Namada Privacy with Rewards'
+---
+
+\
+<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>By [Gavin Birch](https://twitter.com/Ether_Gavin), updated Feb 25, 2023 <br><br> _Can Web3 reach adoption without privacy? Namada’s poised to launch in March 2023. Shielded assets will be rewarded with NAM–here’s why and what to pay attention to. We’ll be running a local bare metal validator (and you can too! [DM](https://twitter.com/vKnowable), [email](mailto:hi@knowable.vc)). [Stay in the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for alerts._
 
 A blockchain gives you a ledger and the guarantee that if you use it, your numbers can’t be manipulated unexpectedly. Staking ensures that integrity, so everyone using the ledger benefits from more staking. The ledger accounts aren’t named, but since all transactions are transparent, it’s only a matter of time before your ledger accounts are tied to your identity. Who will use a blockchain, knowing that all of their accounts and account transactions are exposed for the entire world to see? We likely can’t have meaningful blockchain adoption without preserving the privacy of accounts (and still ensuring transaction accountability).
 
