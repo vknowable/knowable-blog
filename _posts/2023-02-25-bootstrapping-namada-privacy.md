@@ -10,7 +10,6 @@ A blockchain gives you a ledger and the guarantee that if you use it, your numbe
 
 [image]
 
-
 ## Data Security, the Missing Piece
 
 We have a few privacy options, like Zcash, but we’d have to trade our assets into and use ZEC coins to benefit from Zcash. Nearly all other chains are fully transparent–how can these users secure their privacy? Namada proposes to retrofit privacy.
@@ -24,9 +23,7 @@ Since it’s a multi-asset shielded pool, all deposited asset types (including N
 
 However, observers can still make inferences about who is making specific claims, unless there’s a crowd to blend into. So there’s a bootstrapping problem: the earliest depositors have little to no privacy, so why join the shielded pool?
 
-[image]
-
-
+<img src="https://github.com/vknowable/knowable-blog/blob/master/images/standing%20out.png?raw=true" width=512 height=512>
 
 ### Who goes first?
 
@@ -41,7 +38,7 @@ We need to attract many deposits, but we can’t reward participants based on th
 
 We can reward depositors based on deposit sizes and deposit time. Minting NAM to reward deposits (based on size) is a cost to the Namada stakeholders–a bet that we’ll attract enough unique depositors of sufficient deposit sizes that in sum will generate enough activity and uncertainty that Namada will be crowded enough for privacy-seekers to blend in.
 
-[image]
+<img src="https://github.com/vknowable/knowable-blog/blob/master/images/spidey.png?raw=true">
 
 
 Yield seekers will likely farm (exploit) Namada’s shielded pool rewards, but in exchange we will use their deposits to bootstrap privacy guarantees. It’s a good trade! Yield farmers assume the risks of being early depositors (a novel chain, a novel bridge ☠️) in exchange for optimal yields (earning and selling NAM for profits that exceed other yield opportunities). When deposit metrics are sufficient enough to attract privacy-seeking depositors, deposit amounts should increase, and yield rates should decrease. We can then expect yield farmers to exit, while privacy-seeking deposits should organically replace the yield-seeking deposits (if all goes well).
@@ -64,7 +61,7 @@ We should expect that as each asset approaches its target deposit size, the rewa
 
 
 
-[image]
+<img src="https://github.com/vknowable/knowable-blog/blob/master/images/privacy_economics_sol_opt.jpg?raw=true">
 
 
 
@@ -84,10 +81,10 @@ There’s a well-established track record of record losses from bridge exploits:
 
 ### Regulatory Risks
 
-If Namada proves to be a reliable place to deposit and withdraw Ethereum assets, we imagine that the next challenge will be a regulatory one. What distinguishes Namada from Tornado Cash? If Namada proves to be truly open, secure, private, and censorship resistant, why wouldn’t eg. the North Korean hacker group, Lazerus, use Namada to obfuscate ill-gotten funds? They reportedly used Tornado Cash to make the funds stolen from the Harmony bridge exploit less traceable, which resulted in OFAC sanctions on Tornado Cash from the US Treasury [links]. Circle froze the USDC that was deposited in Tornado cash contracts. What happens to the funds of Namada depositors if they’re mingled with stolen funds controlled by US-sanctioned entities? We looking forward to exploring how digital asset privacy guarantees can coexist with different legal and executive jurisdictions.
+If Namada proves to be a reliable place to deposit and withdraw Ethereum assets, we imagine that the next challenge will be a regulatory one. What distinguishes Namada from Tornado Cash? If Namada proves to be truly open, secure, private, and censorship resistant, why wouldn’t eg. the North Korean hacker group, Lazerus, use Namada to obfuscate ill-gotten funds? They reportedly used Tornado Cash to make the funds stolen from the Harmony bridge exploit less traceable, which resulted in OFAC sanctions on Tornado Cash from the US Treasury [links]. Circle froze the USDC that was deposited in Tornado cash contracts. What happens to the funds of Namada depositors if they’re mingled with stolen funds controlled by US-sanctioned entities? We're looking forward to exploring how digital asset privacy guarantees can coexist with different legal and executive jurisdictions.
 
 
-[image]
+<img src="https://github.com/vknowable/knowable-blog/blob/master/images/leviathan.png?raw=true">
 
 
 
