@@ -8,7 +8,7 @@ title: 'Namada: Incentivizing Privacy'
 
 <img src="https://github.com/vknowable/knowable-blog/blob/master/images/namada%20flame%20512.png?raw=true">
 
-A blockchain gives you a ledger and the guarantee that if you use it, your numbers can’t be manipulated unexpectedly. Staking economically guarantees that integrity, so everyone using the ledger benefits from more staking (ie. stronger guarantees). The ledger accounts are called "pseudonymous," not because they're labelled with a fictitious name, but because they're labelled with an address that's not directly linked to the identity of those controlling each account. However, since all transactions are transparent, it’s only a matter of time before your ledger accounts are tied to your identity.
+A blockchain gives you a ledger and the guarantee that if you use it, your numbers can’t be manipulated unexpectedly. Staking economically guarantees that integrity, so everyone using the ledger benefits from more staking (ie. stronger guarantees). The ledger accounts are called "pseudonymous," not because they're labelled with a fictitious name, but because they're labelled with an address that's not directly linked to the identity of the person(s) controlling each account. However, since all transactions are transparent, it’s only a matter of time before your ledger accounts are tied to your personal identity.
 
 Who will use a blockchain, knowing that all of their accounts and account transactions will be exposed for the entire world to see? Perhaps worse, what happens if someone doesn't realize this, and is later vulnerable to an adversary? We likely can’t have meaningful blockchain adoption without data security--without preserving the privacy of accounts and their transactions (while still guaranteeing that every single transaction is valid).
 
@@ -24,6 +24,7 @@ This is powerful, because as a Namada depositor, I'll have guarantees that I can
 - deposit ETH into a fresh Ethereum account ("seeding" a new account)
 - donate USDC to a humanitarian cause
 - swap OSMO for ATOM in one click
+
 I'm anticipating being able to privately stake ATOM and vote on governance proposals, or privately lending RAI or DAI to earn from defi apps.
 
 ## The Privacy Game
@@ -100,8 +101,10 @@ Personally, I think it will be important for depositors to have sufficient notic
 
 Namada’s an exciting piece of the adoption puzzle, and an exciting glimpse of what’s to come with Anoma. With interoperability expertise and lessons learned from bridge hacks, we expect Heliax team to take great care to mitigate damage of a bridge exploit. As Namada’s bridge earns a reputation for being battle-tested, we look forward to exploring how Namada’s privacy features can grow to benefit a wider set of users, together with other privacy-preserving ecosystems, [thanks to bridge privacy innovations](https://blog.namada.net/shaping-multichain-privacy/).
 
-Namada is aiming to launch in April 2023. Join us! We’ll be running a local bare metal validator (and you can too!) → hi@knowable.vc
+---
+
+We're looking forward to an April 2023 launch for Namada. Join us! We’ll be running a local bare metal validator (and you can too!) → hi@knowable.vc
 
 The Namada community is in [Discord](https://discord.com/invite/namada), on [Reddit](https://www.reddit.com/r/Namada/), and [Twitter](https://twitter.com/namada). Participate by [running a Namada validator](https://namada.net/testnets) or by [nominating someone](https://forum.namada.net/c/rpgf/5) for public goods funding. Follow along and [Stay in the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for alerts from Knowable, and Heliax’s [Namada newsletter](https://eepurl.com/hQTYon).
 
-<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>Hi! I'm [Gavin Birch](https://twitter.com/Ether_Gavin) 👋
+<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>Hi! I'm [Gavin Birch](https://twitter.com/Ether_Gavin) 👋 Thanks for reading. Feel free to reach out :)
