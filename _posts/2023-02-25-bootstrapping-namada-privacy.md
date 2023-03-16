@@ -88,7 +88,9 @@ There’s a well-established track record of record losses from bridge exploits:
 
 ### Regulatory Risks
 
-If Namada proves to be a reliable place to deposit and withdraw Ethereum assets, we imagine that the next challenge will be a regulatory one. What distinguishes Namada from Tornado Cash? If Namada proves to be truly open, secure, private, and censorship resistant, why wouldn’t eg. the North Korean hacker group, Lazerus, use Namada to obfuscate ill-gotten funds? They reportedly used Tornado Cash to make the funds stolen from the Harmony bridge exploit less traceable, which resulted in OFAC sanctions on Tornado Cash from the US Treasury [links]. Circle froze the USDC that was deposited in Tornado cash contracts. What happens to the funds of Namada depositors if they’re mingled with stolen funds controlled by US-sanctioned entities? We're looking forward to exploring how digital asset privacy guarantees can coexist with different legal and executive jurisdictions.
+If Namada proves to be a reliable place to deposit and withdraw Ethereum assets, I imagine that the next challenge will be a regulatory one. What distinguishes Namada from Tornado Cash, in a regulatory sense? If Namada proves to be truly open, secure, private, and censorship resistant, why wouldn’t eg. the North Korean hacker group, Lazerus, use Namada to obfuscate ill-gotten funds? They reportedly used Tornado Cash to make the funds stolen from the Harmony bridge exploit less traceable, which resulted in [OFAC sanctions on Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash) from the US Treasury and, shortly afterward, the [arrest of Alexey Pertsev](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/). Circle froze the USDC that was deposited in Tornado cash contracts. Alexey is [reportedly still being jailed](https://twitter.com/AP_Abacus/status/1626572972495437824), having been jailed in the Netherlands for nearly 7 months without formal charges.
+
+What happens to the funds of Namada depositors if they’re mingled with stolen funds controlled by US-sanctioned entities? We're looking forward to exploring how digital asset privacy guarantees can coexist with different legal and executive jurisdictions.
 
 
 <img src="https://github.com/vknowable/knowable-blog/blob/master/images/leviathan.png?raw=true">
@@ -97,9 +99,9 @@ If Namada proves to be a reliable place to deposit and withdraw Ethereum assets,
 
 ## Looking Forward
 
-Personally, I think it will be important for depositors to have sufficient notice and time to withdraw their assets before a smart contract upgrade. I’d also like to see a dashboard for deposit metrics that are useful enough to make inferences about privacy strength, as well as rewards rates for different types of assets. Could we have an emergency freeze option to halt stolen funds in Namada (without risking the confidence of other users)?
+Personally, I think it will be important for depositors to have sufficient notice and time to withdraw their assets before a bridge smart contract upgrade. I’d also like to see a dashboard for deposit metrics that are useful enough to make inferences about privacy strength, as well as rewards rates for different types of assets. Should we consider a scheme to enable the option to halt stolen funds deposited into Namada (without risking the confidence of other users)?
 
-Namada’s an exciting piece of the adoption puzzle, and an exciting glimpse of what’s to come with Anoma. With interoperability expertise and lessons learned from bridge hacks, we expect Heliax team to take great care to mitigate damage of a bridge exploit. As Namada’s bridge earns a reputation for being battle-tested, we look forward to exploring how Namada’s privacy features can grow to benefit a wider set of users, together with other privacy-preserving ecosystems, [thanks to bridge privacy innovations](https://blog.namada.net/shaping-multichain-privacy/).
+Namada’s an important piece of the adoption puzzle, and an exciting glimpse of what’s to come with Anoma. With interoperability expertise and lessons learned from bridge hacks, we expect Heliax team to take great care to mitigate damage of a bridge exploit. As Namada’s bridge earns a reputation for being battle-tested, we look forward to exploring how Namada’s privacy features can grow to benefit a wider set of users, together with other privacy-preserving ecosystems, [thanks to bridge privacy innovations](https://blog.namada.net/shaping-multichain-privacy/).
 
 ---
 
