@@ -29,7 +29,7 @@ I'm anticipating being able to privately stake ATOM and vote on governance propo
 
 ## The Privacy Game
 
-However, unless there’s a crowd to blend into, observers can still make inferences about who is controlling their assets. So there’s a bootstrapping problem: the earliest depositors have little to no privacy, so why join the shielded pool?
+However, unless there’s a crowd to blend into, observers can still make inferences about the data to identify those using the system. So there’s a bootstrapping problem: the earliest depositors have little to no privacy, so why join the shielded pool?
 
 <img src="https://github.com/vknowable/knowable-blog/blob/master/images/tall%20in%20a%20crowd%20512.png?raw=true">
 
