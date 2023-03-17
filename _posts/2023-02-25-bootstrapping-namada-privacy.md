@@ -68,7 +68,7 @@ We should expect that as each asset approaches its target deposit size, the rewa
 
 
 
-<img src="https://github.com/vknowable/knowable-blog/blob/master/images/privacy_economics_sol_opt.jpg?raw=true">
+<a href="https://blog.namada.net/privacy-as-a-public-good/"><img src="https://github.com/vknowable/knowable-blog/blob/master/images/privacy_economics_sol_opt.jpg?raw=true"></a>
 
 
 
