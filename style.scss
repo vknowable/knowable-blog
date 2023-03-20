@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', $helveticaNeue;
   color: $lightGray;
   font-weight: bold;
-  border-bottom: 3px solid #333;
+  border-bottom: 3px solid #e5ac40;
 
   line-height: 1.7;
   margin: 1em 0 20px;
@@ -256,7 +256,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #555;
 }
 
 .posts > .post:last-child {
