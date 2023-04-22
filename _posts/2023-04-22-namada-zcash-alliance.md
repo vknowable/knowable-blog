@@ -17,12 +17,12 @@ Namada and Zcash are mission-aligned, building a future where digital payment pr
 * **Namada x Zcash bridge** will bring ZEC into Ethereum & Cosmos
 
 
-### NAM airdrop for ZEC
+## NAM airdrop for ZEC
 
 **Namada will propose an airdrop to cover all ZEC holders, transparent and shielded.** This is a material thanks to the Zcash community for the pioneering work and culture, and for Sapling, the modified technology at the foundation of Namada’s multi-asset shielded pool. Getting NAM into the hands of ZEC holders also makes a strong, privacy focused community aware of Namada’s efforts. Details are tbd, [read the proposal here](https://forum.zcashcommunity.com/t/rfc-proposal-for-a-strategic-alliance-between-namada-and-zcash/44372).
 
 
-### NAM grants for Zcash initiatives
+## NAM grants for Zcash initiatives
 
 To further the Namada x Zcash alliance, there will be two proposals to benefit the Zcash ecosystem:
 
@@ -34,7 +34,7 @@ To further the Namada x Zcash alliance, there will be two proposals to benefit t
 The details are to be determined, [read the proposal here](https://forum.zcashcommunity.com/t/rfc-proposal-for-a-strategic-alliance-between-namada-and-zcash/44372). **These grants will fund RFPs, like building a Namada x Zcash bridge**.
 
 
-### Namada x Zcash bridge
+## Namada x Zcash bridge
 
 Research collaborations with the Zcash community will be mutually beneficial for our shared mission. Christopher Goes has proposed an initial Namada x Zcash bridge architecture and funding to implement it.
 
@@ -43,7 +43,7 @@ Research collaborations with the Zcash community will be mutually beneficial for
 We anticipate bridge privacy and other future Namada x Zcash research collaborations. We expect that this will be a valuable alliance for effectively advancing our shared mission 🚀
 
 
-### Further reading
+## Further reading
 
 
 
@@ -53,6 +53,10 @@ We anticipate bridge privacy and other future Namada x Zcash research collaborat
 * [Short Namada blog post summary](https://blog.namada.net/rfc-proposal-for-a-strategic-alliance-between-namada-and-zcash/)
 
 
-### General update
+## General update
 
 Knowable has been running our validator on the testnet, and we're working closely with the founding team on preparations to launch Namada's public goods funding experiment. **We think that the Namada mainnet won't launch sooner than June** (despite our previous estimate being April).
+  
+The Namada community is in [Discord](https://discord.com/invite/namada), on [Reddit](https://www.reddit.com/r/Namada/), and [Twitter](https://twitter.com/namada). Participate by [running a Namada validator](https://namada.net/testnets) or by [nominating someone](https://forum.namada.net/c/rpgf/5) for public goods funding. Follow along and [Stay in the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for alerts from Knowable, and Heliax’s [Namada newsletter](https://eepurl.com/hQTYon).
+
+<img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>Hi! I'm [Gavin Birch](https://twitter.com/Ether_Gavin) 👋 Thanks for reading. Feel free to reach out :)
