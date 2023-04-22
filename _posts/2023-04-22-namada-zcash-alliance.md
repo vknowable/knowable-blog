@@ -6,7 +6,7 @@ title: 'Namada 🤝 Zcash Alliance'
 \
 <img src="https://knowable.vc/assets/gavin-avatar.jpg" width="75" height="75"><br>By [Gavin Birch](https://twitter.com/Ether_Gavin), Apr 22, 2023 <br><br> _Privacy loves company. Namada's built on Zcash research, and now Namada plans to pay incentives and tribute to the Zcash community. We're anticipating research collaboration, an airdrop, and a Zcash x Namada bridge to introduce Zcash into the Ethereum & Cosmos ecosystems. Here’s why and what to pay attention to. We’ll be running a local bare metal validator (and you can too! [DM](https://twitter.com/vKnowable), [email](mailto:hi@knowable.vc)). [Stay in the Know](https://forms.gle/HRAQBSo85HGzKVSg9) for alerts._
 
-## Namada 🤝 Zcash Alliance
+<p><img src="https://github.com/vknowable/knowable-blog/blob/master/images/zcash%20bridge%20512.png?raw=true"><br>
 
 Namada and Zcash are mission-aligned, building a future where digital payment privacy is normal. Namada has been built on modified Zcash technology, and now it’s time to collaborate with and reward the Zcash community.
 
