@@ -38,7 +38,7 @@ The details are to be determined, [read the proposal here](https://forum.zcashco
 
 Research collaborations with the Zcash community will be mutually beneficial for our shared mission. Christopher Goes has proposed an initial Namada x Zcash bridge architecture and funding to implement it.
 
-**A bridge is essential for decentralized trading of ZEC–Zcash will no longer be an island.** We should expect to see ZEC moving through a Zcash x Namada bridge to the Cosmos and Ethereum ecosystems and beyond. It should be a seamless and secure experience for ZEC holders, who will be able to pay Namada fees in ZEC. Namada is already shaping up to be critical infrastructure.
+**A bridge is essential to introduce ZEC into Ethereum, Cosmos and beyond–Zcash will no longer be an island.** We should expect to see ZEC moving through a Zcash x Namada bridge to the Cosmos and Ethereum ecosystems and beyond. It should be a seamless and secure experience for ZEC holders, who will be able to pay Namada fees in ZEC. Namada is already shaping up to be critical infrastructure.
 
 We anticipate bridge privacy and other future Namada x Zcash research collaborations. We expect that this will be a valuable alliance for effectively advancing our shared mission 🚀
 
