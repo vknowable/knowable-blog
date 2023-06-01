@@ -55,7 +55,7 @@ When Osmosis incorporates Ferveo, an encryption scheme designed to protect again
 This isn’t the first alliance proposal–in April, the [Anoma Foundation proposed an alliance with the Zcash community](https://vknowable.github.io/knowable-blog/namada-zcash-alliance/) that includes an airdrop, a joint grants program, and a bridge to introduce ZEC to the Ethereum and Cosmos ecosystems.
 
 
-
+* [Osmosis twitter announcement](https://vknowable.github.io/knowable-blog/namada-osmosis-alliance/)
 * Christopher Goes unveiled the Anoma Foundation’s proposed Osmosis alliance via [Twitter, May 22](https://twitter.com/cwgoes/status/1660693238951313408) 
 * [Osmosis forum post, May 22](https://gov.osmosis.zone/discussion/11472-rfc-proposal-for-a-public-goods-partnership-between-namada-and-osmosis): RFC: Proposal for a public goods partnership between Namada and Osmosis 
 * [CoinDesk coverage, May 22](https://www.coindesk.com/business/2023/05/22/seeking-grants-deal-with-osmosis-privacy-blockchain-namada-proposes-airdrop): Seeking Grants Deal with Osmosis, Privacy Blockchain Namada Proposes Airdrop
