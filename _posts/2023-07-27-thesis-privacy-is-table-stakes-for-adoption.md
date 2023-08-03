@@ -50,7 +50,7 @@ Ernst & Young (EY), a London-based accounting firm known globally as one of the 
 
 Three years later, [EY is still saying the same thing](https://www.youtube.com/live/9FZq-9Oe5Hc?feature=share&t=708). [Paul Brody](https://twitter.com/pbrody), Global Blockchain Leader at EY, suggests that while there’s a strong appetite for secure, credibly neutral, programmable settlement, chain transparency is likely a big part of why we don’t yet have meaningful enterprise adoption. He says that enterprises **would love to automate all of their transactions**, but:
 
-    _“… they want to execute them on a neutral, distributed public infrastructure, just like the internet … enterprises who are very strategic … want privacy for their transactions.”_
+> _“… they want to execute them on a neutral, distributed public infrastructure, just like the internet … enterprises who are very strategic … want privacy for their transactions.”_
 
 Paul explains that business contracts are complicated and expensive to track. Since the business contracts aren’t compatible with the business logic, transactions cost ~$100 each and take days to settle–primarily because verification can’t be automated. But a smart contract? A smart contract can secure this almost instantly, and for pennies. Blockchain-based business logic is totally programmable and composable across independent (and even competing) enterprises.
 
